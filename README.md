@@ -6,11 +6,10 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<!-- Estatísticas gerais -->
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=JoaoLopes5show_icons=true&theme=radical&count_private=true&token=PAT_1)
 
-<!-- Linguagens mais usadas -->
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLopes5&layout=compact&theme=radical&token=PAT_1)
+![Estatísticas](https://SEU-PROJETO.vercel.app/api?username=JoaoLopes5&show_icons=true&theme=radical&count_private=true)
+
+![Linguagens](https://SEU-PROJETO.vercel.app/api/top-langs/?username=JoaoLopes5&layout=compact&theme=radical)
 
 ---
 
