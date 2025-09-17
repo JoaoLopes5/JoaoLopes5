@@ -15,8 +15,8 @@
 ---
 
 ## 🚀 Projetos em destaque
-- 🔗 [Projeto 1](https://github.com/Teste-iOS/projeto1)
-- 🔗 [Projeto 2](https://github.com/TesteAPI/projeto2)
+- 🔗 [Projeto 1](https://github.com/JoaoLopes5/Teste-iOS)
+- 🔗 [Projeto 2](https://github.com/JoaoLopes5/TesteAPI)
 
 ---
 
