@@ -1,22 +1,24 @@
-### Olá 👋
+# Olá, eu sou o João 👋
 
-###### Sobre o João Pedro
-Atualmente, estou em formação como Engenheiro de Qualidade de Software pela EBAC, colocando em prática habilidades em testes automatizados, integração contínua e metodologias ágeis (Scrum e Kanban).
+💻 Engenheiro de Qualidade de Software | Analista de Testes (QA)  
+🚀 Apaixonado por automação de testes e melhoria contínua  
 
+---
 
-### Detalhes
+## 📊 Estatísticas do GitHub
+<!-- Estatísticas gerais -->
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=JoaoLopes5show_icons=true&theme=radical&count_private=true&token=PAT_1)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLopes5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Linguagens mais usadas -->
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLopes5&layout=compact&theme=radical&token=PAT_1)
 
-### Projetos
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoLopes5&repo=Teste-iOS.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Projetos em destaque
+- 🔗 [Projeto 1](https://github.com/Teste-iOS/projeto1)
+- 🔗 [Projeto 2](https://github.com/TesteAPI/projeto2)
 
+---
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLopes5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contatos
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/pedrobrocaldi/](https://www.linkedin.com/in/joão-pedro-tavares-lopes-qa/))
+## 🌐 Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joão-pedro-tavares-lopes-1940b6275/)
