@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 <h3 align="center">💻 Software Quality Engineer | QA Analyst 🚀 Passionate about test automation and continuous improvement</h3>
+<h2>About me</h2>
+💡 For me, quality has always been more than a requirement: it is what sustains innovation and ensures user trust. This perspective led me to invest in Software Quality Engineering, where I combine my background in Systems Analysis and Development with testing techniques, automation, and development best practices focused on excellence.
 
-- 🌱 I’m currently learning **Cybersecurity**
+🚀 Currently, I am a certified Software Quality Engineer from EBAC, applying skills in automated testing, continuous integration, and agile methodologies (Scrum and Kanban). In project development—such as creating a REST API test suite using Cypress, Faker, and Joi—I enhanced my ability to structure robust and reliable test scenarios to ensure high-quality results.
+
+🤝 My professional experience has taught me that communication and empathy are just as important as technical skills. I have worked in customer support, actively participating in process improvements and contributing to increased user satisfaction. This experience strengthened my ability to collaborate with multidisciplinary teams, turning feedback into concrete actions.
+
+🔍 I am driven by challenges, continuous learning, and the opportunity to combine technology, quality, and user experience in every delivery.
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoaoLopes5?tab=repositories](https://github.com/JoaoLopes5?tab=repositories)
 
