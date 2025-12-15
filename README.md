@@ -1,5 +1,11 @@
-<h1 align="center">Oi 👋, meu nome é João Pedro</h1>
-<h3 align="center">💻 Engenheiro de Qualidade de Software | Analista de Testes (QA) 🚀 Apaixonado por automação de testes e melhoria contínua</h3>
+<h1 align="center">Hi 👋, I'm João Pedro</h1>
+<h3 align="center">💻 Software Quality Engineer | QA Analyst 🚀 Passionate about test automation and continuous improvement</h3>
+
+- 🌱 I’m currently learning **Cybersecurity**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JoaoLopes5?tab=repositories](https://github.com/JoaoLopes5?tab=repositories)
+
+- 📫 How to reach me **✉ sm.fisher18@gmail.com, 📱 (33) 991166473**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
